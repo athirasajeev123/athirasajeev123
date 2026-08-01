@@ -1,71 +1,92 @@
 <h1 align="center">Hi 👋, I'm Athira Sajeev</h1>
 
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">MERN Stack Developer | Software Developer with 3+ Years of Experience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Things" />
+Passionate about building modern, scalable web applications using the MERN Stack.
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
-- 💻 I love building MERN Stack Applications
-- 📚 Currently studying Data Structures & Algorithms
-- 🎯 Goal: Become a Product Software Engineer
+- 💼 Software Developer with **3+ years of professional experience**
+- 🚀 Experienced in building applications using **React.js, Node.js, Express.js, and MongoDB**
+- 📚 Currently strengthening my **Data Structures & Algorithms** and **System Design** skills
+- 🎯 Aspiring to become a **Product Software Engineer**
+- ❤️ Passionate about writing clean, maintainable, and scalable code
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+# 💼 Professional Experience
+
+**Software Developer**
+
+**Amrita CREATE**
+
+- Developed and maintained web applications.
+- Worked on educational and research-based software projects.
+- Collaborated with cross-functional teams.
+- Built responsive user interfaces.
+- Integrated frontend applications with backend APIs.
+
+---
+
+# 🚀 Featured Project
+
+### 🌐 Personal Portfolio Website
+
+A responsive portfolio website showcasing my skills, experience, and projects.
+
+**Tech Stack**
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+# 🎯 Currently Focusing On
+
+- Advanced Backend Development
+- Data Structures & Algorithms
+- System Design
+- Building Production-Ready MERN Applications
+
+---
+
+# 📫 Contact
+
+📧 Email: athiras441@gmail.com
+
+---
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
-</p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=athirasajeev123&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirasajeev123&layout=compact&theme=tokyonight"/>
+Thanks for visiting my GitHub profile! ⭐
 
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=athirasajeev123&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-- 🌐 Portfolio Website
-- 📝 MERN Notes App
-- 💼 WorkSphere API
-- 📚 More projects coming soon...
-
----
-
-# 📫 Connect With Me
-
-- 📧 Email : athiras441@gmail.com
-- 💼 LinkedIn : Coming Soon
-- 🌐 Portfolio : Coming Soon
-
----
-
-<h3 align="center">
-
-⭐ Thank you for visiting my profile ⭐
-
-</h3>
