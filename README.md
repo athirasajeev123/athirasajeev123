@@ -1,144 +1,98 @@
-<h1 align="center">Hi 👋, I'm Athira Sajeev</h1>
-
-<h3 align="center">
-Software Developer • MERN Stack Engineer • 3+ Years Experience
-</h3>
+<h1 align="center">Hi, I'm Athira Sajeev 👋</h1>
 
 <p align="center">
-Building scalable web applications with React, Node.js, Express.js and MongoDB.
+<b>Software Developer • MERN Stack Engineer • 3+ Years of Professional Experience</b>
+</p>
+
+<p align="center">
+Building scalable, maintainable, and user-centric web applications using modern JavaScript technologies.
 </p>
 
 ---
 
-<h2 align="center">👩‍💻 About Me</h2>
+## About Me
 
-<table align="center">
+Software Developer with **3+ years of professional experience** in designing and developing modern web applications.
 
-<tr>
-<td>💼</td>
-<td><b>Experience</b></td>
-<td>3+ Years as Software Developer</td>
-</tr>
+Experienced in building responsive user interfaces, integrating REST APIs, and developing full-stack applications using the **MERN Stack**.
 
-<tr>
-<td>🚀</td>
-<td><b>Current Role</b></td>
-<td>MERN Stack Developer</td>
-</tr>
-
-<tr>
-<td>📚</td>
-<td><b>Learning</b></td>
-<td>Data Structures & Algorithms • System Design</td>
-</tr>
-
-<tr>
-<td>🎯</td>
-<td><b>Career Goal</b></td>
-<td>Product Software Engineer</td>
-</tr>
-
-<tr>
-<td>❤️</td>
-<td><b>Passion</b></td>
-<td>Building scalable web applications</td>
-</tr>
-
-</table>
+Currently strengthening my expertise in **Data Structures & Algorithms**, **System Design**, and **Backend Engineering** while continuously improving software design and problem-solving skills.
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+## Core Skills
 
-<p align="center">
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
 
-</p>
+**Backend**
 
----
+- Node.js
+- Express.js
 
-<h2 align="center">💼 Professional Experience</h2>
+**Database**
 
-<table align="center">
+- MongoDB
 
-<tr>
-<td>🏢</td>
-<td><b>Company</b></td>
-<td>Amrita CREATE</td>
-</tr>
+**Tools**
 
-<tr>
-<td>👨‍💻</td>
-<td><b>Role</b></td>
-<td>Software Developer</td>
-</tr>
-
-<tr>
-<td>📅</td>
-<td><b>Experience</b></td>
-<td>3+ Years</td>
-</tr>
-
-</table>
+- Git
+- GitHub
+- VS Code
+- Postman
 
 ---
 
-<h2 align="center">🚀 Featured Project</h2>
+## Professional Experience
 
-<table align="center">
+### Software Developer
 
-<tr>
-<td>🌐</td>
-<td><b>Portfolio Website</b></td>
-</tr>
+**Amrita CREATE**
 
-<tr>
-<td colspan="2">
+**Responsibilities**
 
-Responsive personal portfolio built with React.js.
-
-</td>
-</tr>
-
-</table>
+- Developed and maintained modern web applications.
+- Built responsive and reusable user interfaces.
+- Worked with REST APIs and backend integration.
+- Collaborated with cross-functional teams.
+- Participated in feature development, testing, debugging, and deployment.
 
 ---
 
-<h2 align="center">🎯 Currently Focusing On</h2>
+## Featured Project
 
-<p align="center">
+### Personal Portfolio Website
 
-✅ Advanced Backend Development
+A modern and responsive portfolio website showcasing my technical skills, experience, and projects.
 
-<br>
+**Tech Stack**
 
-✅ Data Structures & Algorithms
-
-<br>
-
-✅ System Design
-
-<br>
-
-✅ Production Ready MERN Applications
-
-</p>
+- React.js
+- JavaScript
+- HTML5
+- CSS3
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+## Current Focus
 
-<p align="center">
+- Advanced Backend Development
+- Data Structures & Algorithms
+- System Design
+- Building Production-Ready MERN Applications
 
-📧 athiras441@gmail.com
+---
 
-</p>
+## Contact
+
+📧 Email: **athiras441@gmail.com**
 
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
+<i>Thank you for visiting my GitHub profile.</i>
 </p>
