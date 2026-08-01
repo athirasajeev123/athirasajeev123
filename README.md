@@ -1,25 +1,36 @@
-# Hi 👋 I'm Athira Sajeev
+<h1 align="center">Hi 👋, I'm Athira Sajeev</h1>
 
-### MERN Stack Developer
+<h3 align="center">MERN Stack Developer</h3>
 
-💻 Currently learning
-- Node.js
-- Express.js
-- MongoDB
-- Data Structures & Algorithms
+<p align="center">
+Building Full Stack Applications using React, Node.js, Express & MongoDB
+</p>
 
-🚀 Skills
-- HTML
-- CSS
-- JavaScript
-- React
-- Git
-- GitHub
+---
 
-🌱 Current Goal
+## 👩‍💻 About Me
 
-Become a Product Software Engineer.
+- 🌱 Currently learning **Node.js, Express.js, MongoDB**
+- 💻 Passionate about MERN Stack Development
+- 📚 Learning Data Structures & Algorithms
+- 🎯 Goal: Product Software Engineer
 
-📫 Reach me
+---
 
-Email: athiras441@gmail.com
+## 🛠 Tech Stack
+
+HTML • CSS • JavaScript • React • Node.js • Express • MongoDB • Git • GitHub
+
+---
+
+## 🚀 Featured Projects
+
+- Portfolio Website
+- WorkSphere API
+- MERN Notes App
+
+---
+
+## 📫 Contact
+
+- Email: athiras441@gmail.com
