@@ -91,7 +91,7 @@ A modern and responsive portfolio website showcasing my technical skills, experi
 
 <p align="left">
 
-<a href="www.linkedin.com/in/athira-sajeev441">
+<a href="https://linkedin.com/in/athira-sajeev441">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
